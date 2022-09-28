@@ -140,4 +140,6 @@ In this project, 3D objects are detected from LiDAR 3D point clouds using using 
 ![image](student/Figures/rang_img.png)
 ![image](student/Figures/rang_img2.png)
 
-## Second, birds-eye view is created from Lidar Point-Cloud
+## Second, birds-eye view is created from Lidar Point-Cloud. The following figurei is an example of birds 
+![image](student/Figures/Birds-Eye_View.png)
+
