@@ -140,9 +140,14 @@ In this project, 3D objects are detected from LiDAR 3D point clouds using using 
 ![image](student/Figures/rang_img.png)
 ![image](student/Figures/rang_img2.png)
 
-## Second, birds-eye view is created from Lidar Point-Cloud. The following figurei is an example of birds eye view image
+## Second, visualize the Lidar Point-CLoud and find 10 vehicles. The following two figures include detected 10 vehicles
+![image](student/Figures/pcl_img_1.png)
+![image](student/Figures/pcl_img_2.png)
+
+
+## Third, birds-eye view is created from Lidar Point-Cloud. The following figurei is an example of birds eye view image
 ![image](student/Figures/Birds-Eye_View.png)
 
-## Third, model-based object detection is performed in BEV image. The following is the example results
+## Fourth, model-based object detection is performed in BEV image. The following is the example results
 ![image](student/Figures/Birds-Eye-View_BoundungBox.png)
 
