@@ -138,3 +138,4 @@ In this project, 3D objects are detected from LiDAR 3D point clouds using using 
 
 First, range images are computed from Lidar Point-Cloud. The following two figures are the examples of the range images
 ![image](student/Figures/rang_img.png)
+![image](student/Figures/rang_img2.png)
