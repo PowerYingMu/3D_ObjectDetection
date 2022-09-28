@@ -1,4 +1,3 @@
-
 # SDCND : Sensor Fusion and Tracking
 This is the project for the second course in the  [Udacity Self-Driving Car Engineer Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) : Sensor Fusion and Tracking. 
 
@@ -131,3 +130,27 @@ Parts of this project are based on the following repositories:
 
 ## License
 [License](LICENSE.md)
+
+# WriteUp : 3D Object Detection
+
+In this project, 3D objects are detected from LiDAR 3D point clouds using using real-world data from the Waymo Open Dataset
+
+## First, range images are computed from Lidar Point-Cloud. The following two figures are the examples of the range images
+![image](student/Figures/rang_img.png)
+![image](student/Figures/rang_img2.png)
+
+## Second, visualize the Lidar Point-CLoud and find 10 vehicles. The following two figures include detected 10 vehicles
+![image](student/Figures/pcl_img_1.png)
+![image](student/Figures/pcl_img_2.png)
+
+## Third, detailed vehicle features are identified from LiDAR Point-Cloud and Intensity layer. The following two figures are examples of identified vehicle features in PCL and intensity layer
+![image](student/Figures/pcl_features.png)
+![image](student/Figures/Intensity Channel Details.png)
+
+
+## Fourth, birds-eye view is created from Lidar Point-Cloud. The following figurei is an example of birds eye view image
+![image](student/Figures/Birds-Eye_View.png)
+
+## Fifth, model-based object detection is performed in BEV image. The following is the example results
+![image](student/Figures/Birds-Eye-View_BoundungBox.png)
+
