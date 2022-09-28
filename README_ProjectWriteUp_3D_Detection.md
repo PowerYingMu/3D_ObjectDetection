@@ -131,3 +131,14 @@ Parts of this project are based on the following repositories:
 
 ## License
 [License](LICENSE.md)
+
+# WriteUp : 3D Object Detection
+
+In this project, 3D objects are detected from LiDAR 3D point clouds using using real-world data from the Waymo Open Dataset
+
+First, range images are computed from Lidar Point-Cloud. The following two figures are the examples of the range images
+
+<img src="student/Figures/range_img.jpg"/>
+
+
+
